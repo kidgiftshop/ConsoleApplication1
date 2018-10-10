@@ -12,6 +12,8 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("Hello");
 
+            var user = new User();
+
             Console.Read();
         }
     }
